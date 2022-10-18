@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias 🇩🇪</h1>
 <h3 align="center">developer from germany</h3>
 
-- 🔭 I’m currently working on **Projects of IvySystems and DeekPrologic GbR**
+- 🔭 I’m currently working on **Projects of IvySystems and DeekPrologic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
