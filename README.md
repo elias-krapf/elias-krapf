@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">developer from germany</h3>
 
-- 🔭 I’m currently working on **Project of IvySystems and DeekPrologic GbR**
+- 🔭 I’m currently working on **Projects of IvySystems and DeekPrologic GbR**
+
+- 💬 Ask me about **java, databases, linux, node**
+
+- 📫 How to reach me **just contact me via discord or mail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/toqqleabuse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="toqqleabuse" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elias krapf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias krapf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elias-krapf-673871197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias-krapf-673871197" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13077328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13077328" height="30" width="40" /></a>
 <a href="https://instagram.com/eliaskrapf_68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eliaskrapf_68" height="30" width="40" /></a>
-<a href="https://discord.gg/9408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9408" height="30" width="40" /></a>
+<a href="https://discord.gg/#9408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9408" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
