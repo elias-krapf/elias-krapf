@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">developer from germany</h3>
 
-- 🔭 I’m currently working on **Projects of IvySystems and DeekPrologic**
+- 🔭 I’m currently working on **Projects of IvySystems and GoDigital24**
 
 - 💬 Ask me about **java, databases, linux, node**
 
