@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">Professional Developer from Germany 🇩🇪</h3>
 <p align="center">Passionate about creating innovative solutions</p>
-🔭 As the Founder of IvySystems, GoDigital24 and MinBu, I am responsible for leading and overseeing all technical aspects of the projects, ensuring the development of cutting-edge software solutions.
+🔭 As the Founder of GoDigital24, IvySystems and MinBu, I am responsible for leading and overseeing all technical aspects of the projects, ensuring the development of cutting-edge software solutions.
 <br><br>
 💬 Ask me about my expertise in NestJS, Vue.js, databases, Linux, and TypeScript. I have extensive experience in these technologies and can provide insights and guidance.
 <br><br>
